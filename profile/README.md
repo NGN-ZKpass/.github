@@ -49,9 +49,11 @@ Join us in creating a more efficient, secure, and equitable system for all Niger
      ![Claim Relief Funds](1.webp)
 
 ## Other info
-NGN_Token Address on starknet: `0x0127e6e8ce904dde711d2ff3719fe29f66ec1fed013be93e532875ea2925eeb4`
 
-Grant_Token Address on starknet : `0x037922d0d0a28d2ceec440ff710e0e0cea836b4014907e379687dec531793db1`
+NGN_Token Address on starknet: `0x06776ab617beff84d657c74ac2eb3423b214bfdf7d146870d3d885a0d4306fc6`
+
+Grant_Token Address on starknet : `0x001df8d4cb18eb084107cad5a27d49fc35d51b28f54f1bbd9580e22a2494af55`
+
 ## Conclusion
 
 NGN_ZkPass is committed to helping enhancing the distribution of government relief funds through innovative and secure technology.and so much more. Join us today and ensure you receive the financial assistance you need without compromising your privacy.
