@@ -8,7 +8,7 @@
 
 ## Overcoming Barriers and Enhancing Efficiency
 
- By leveraging Zk-KYC (Zero-Knowledge Know Your Customer) technology via [ZKPASS]("https://zkpass.org/"), we built a zk proof system where all nigerians can proof they are nigerians. 
+ By leveraging Zk-KYC (Zero-Knowledge Know Your Customer) technology via [ZKPASS]("https://zkpass.org/"), we built a zk proof system where all nigerians can proof they are Nigerians. 
 
 ## How to Use the App (Sample)
 
