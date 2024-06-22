@@ -1,7 +1,5 @@
 # NGN_ZkPass
 
-### Simplifying Access to Essential Support for Nigerians
-
 #### NGN_ZkPass
 
  NGN_ZkPass ensures that every eligible citizen can easily generate proof of identity without revealing their information and verify their Nigerian citizenship.
